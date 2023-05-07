@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)  -omf=elf -DXPRJ_default=$(CND_CONF)    -Wa,-g,--no-relax$(MP_EXTRA_AS_POST)  -mdfp="${DFP_DIR}/xc16"C:\Users\gssan\OneDrive\Documentos\GitHub\dsPIC_Abril\Ejemplos\Ejemplo7_ADC.X\mcc_generated_files\system\src\dmt_asm.s
